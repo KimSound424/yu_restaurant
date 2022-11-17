@@ -1,0 +1,13 @@
+.title{
+    color:blue;
+    background-color: aliceblue;
+}
+.restaurant{
+    background-color: antiquewhite;
+    display: none;
+    padding: 20px;
+    background-clip: content-box;
+}
+.tag{
+    display: inline-block;
+}
